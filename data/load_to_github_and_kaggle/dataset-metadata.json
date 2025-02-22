@@ -1,0 +1,24 @@
+{
+        "id": "mdabbert/ultimate-ufc-dataset",
+        "id_no": 731322,
+        "datasetId": 731322,
+        "datasetSlug": "ultimate-ufc-dataset",
+        "ownerUser": "mdabbert",
+        "usabilityRating": 0.9117647058823529,
+        "totalViews": 50366,
+        "totalVotes": 191,
+        "totalDownloads": 5368,
+        "title": "Ultimate UFC Dataset",
+        "subtitle": "Merging All Kaggle Public UFC Datasets",
+        "isPrivate": false,
+        "keywords": [
+            "sports",
+            "computer science",
+            "software",
+            "gambling",
+            "martial arts"
+        ],
+        "licenses": [{"name": "Attribution 4.0 International (CC BY 4.0)"}],
+        "collaborators": [],
+        "data": []
+    }
