@@ -11,3 +11,7 @@ I use this ranking history in this UFC Dataset.  martj42 does an amazing job mai
 ## Find More info about this dataset on Kaggle
 https://www.kaggle.com/datasets/mdabbert/ultimate-ufc-dataset/data
 
+## General Pytest usage that I like
+
+$ pytest tests --tb=short -r fEsx --cov --cov-report=html:htmlcov --cov-report=xml:htmlcov/coverage.xml
+
