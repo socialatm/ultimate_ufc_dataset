@@ -15,6 +15,12 @@ print(ufc_master.shape)
 # print the length of ufc_master['red_odds']
 print(len(ufc_master['RedOdds']))
 
+# find rows where Location = Las Vegas, Nevada, USA and Date = 2024-01-13
+rows = ufc_master[(ufc_master['Location'] == 'Las Vegas, Nevada, USA') & (ufc_master['Date'] == '2024-01-13')]
+print(rows)
+
+
+
 
 
 
